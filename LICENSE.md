@@ -4,7 +4,7 @@ Copyright (c) Microsoft Corporation
 
 All rights reserved.
 
-*This license applies only to the SDK code. Sample images are licensed separately, please refer to [LICENSE-IMAGE](</LICENSE-IMAGE.md>)*
+*This license applies only to the SDK code. Sample images are licensed separately, please refer to [LICENSE-IMAGE](<https://github.com/Microsoft/Cognitive-Vision-Windows/blob/master/LICENSE-IMAGE.md>)*
 
 MIT License
 
